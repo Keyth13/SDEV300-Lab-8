@@ -1,0 +1,4 @@
+username=tutors_user
+password=tutorville
+host=localhost
+db=tutors
